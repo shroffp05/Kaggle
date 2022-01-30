@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ftitanic&psig=AOvVaw01NFGJXe3GYr-hl-TBctoM&ust=1643640709526000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCitPfc2fUCFQAAAAAdAAAAABAD" />
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3136/logos/header.png"/>
 
 # Titanic Kaggle Competition
 
